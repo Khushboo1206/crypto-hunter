@@ -4,7 +4,7 @@ Crypto Hunter is a cryptocurrency tracking and analysis platform that allows use
 
 The application gathers live market data from a public cryptocurrency data source and presents it in an easy-to-understand format, helping users stay informed about the fast-moving crypto market.
 
-Purpose of Crypto Hunter
+**Purpose of Crypto Hunter**
 
 The cryptocurrency market changes rapidly and involves large amounts of numerical data. Crypto Hunter simplifies this information by organizing it into clear views, interactive charts, and categorized listings so users can quickly understand price movements and market behavior.
 
