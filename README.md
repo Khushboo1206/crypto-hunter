@@ -49,7 +49,11 @@ This project uses a **public cryptocurrency API** for real-time data:
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 
+<img width="1919" height="971" alt="Screenshot 2026-01-14 150047" src="https://github.com/user-attachments/assets/4de010e0-585b-4c48-84b6-ba133e9845fc" />
+<img width="1919" height="957" alt="Screenshot 2026-01-14 150108" src="https://github.com/user-attachments/assets/a2224f48-2885-4ada-93f8-f1c2ebdbc32e" />
+<img width="1919" height="980" alt="Screenshot 2026-01-14 150121" src="https://github.com/user-attachments/assets/f4a5422d-1782-461e-8db7-83190fbbf427" />
+
 
 _Add screenshots of your app here_
 
