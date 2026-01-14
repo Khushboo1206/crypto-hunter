@@ -1,8 +1,12 @@
 # 🚀 Crypto Hunter
 
-Crypto Hunter is a **React-based cryptocurrency tracking web application** that allows users to explore real-time cryptocurrency prices, market trends, and historical data through interactive charts.
+Crypto Hunter is a cryptocurrency tracking and analysis platform that allows users to explore real-time cryptocurrency prices, market trends, and historical performance in a simple and visually intuitive way.
 
-The application fetches live data from a public crypto API and presents it in a clean, user-friendly interface.
+The application gathers live market data from a public cryptocurrency data source and presents it in an easy-to-understand format, helping users stay informed about the fast-moving crypto market.
+
+Purpose of Crypto Hunter
+
+The cryptocurrency market changes rapidly and involves large amounts of numerical data. Crypto Hunter simplifies this information by organizing it into clear views, interactive charts, and categorized listings so users can quickly understand price movements and market behavior.
 
 ---
 
